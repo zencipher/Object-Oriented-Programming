@@ -1,0 +1,24 @@
+﻿  app_main.cpp
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(90): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(94): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(116): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(118): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(119): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(121): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(122): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(127): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(128): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(130): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(134): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\veronica\documents\cse165\freeglutapp\freeglutapp\app_main.cpp(137): warning C4018: '<': signed/unsigned mismatch
+app_main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp.vcxproj -> C:\Users\Veronica\Documents\CSE165\freeglutapp\freeglutapp\visualc15\obj\glutapp_Debug\glutapp.exe
